@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 📮 contact me
-- <i class="fa-solid fa-envelope"></i> [Email](mailto:yangxx@88.com)
-- <img src="./icons/article.svg"> [博客](https://blog.yeji.life/)
+- 📨 [Email](mailto:yangxx@88.com)
+- 📃 [博客](https://blog.yeji.life/)
