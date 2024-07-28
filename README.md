@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ## 📮 联系我 | contact me
 - 📨 [Email](mailto:yangxx@88.com)
-- 📃 [博客](https://blog.yeji.life/)
+- 📃 [博客](http://moviebot.cc:8100)
